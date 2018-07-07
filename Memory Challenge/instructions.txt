@@ -1,0 +1,13 @@
+ Instructions:
+
+	Install Python 3 
+	most probable from python.org(official site of python)
+
+	Additional modules needed: random, os, sys, time, msvcrt
+	most likely preinstalled in python 3- version 3.6.4
+
+	need to run the source code with python 3
+
+	Done!!
+
+ Enjoy the GAME!!!
