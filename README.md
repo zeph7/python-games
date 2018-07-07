@@ -2,7 +2,7 @@
 
 Collection of self developed mini python games
 
-        ![](https://udemy-images.udemy.com/course/750x422/566404_56ea_3.jpg)
+![](https://udemy-images.udemy.com/course/750x422/566404_56ea_3.jpg)
 
 
 ### What is it ?
