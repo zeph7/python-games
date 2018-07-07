@@ -1,0 +1,19 @@
+ About game:
+
+	Its actually a memory game.
+	You have to remember the sequence of characters shown at random for a time duration
+	and then your task is to rewrite the sequence as it is.
+
+	You give out the correct sequence, you win!!
+	else you lose!!
+
+ Rules:
+	
+	1. Level 1 starts with a sequence of 3 characters.
+
+	2. Each level increases 1 character in the sequence making level even tougher.
+
+	4. Press y(yes) or n(no), if you want to play again or not when it asks. 
+
+
+ Enjoy the GAME!!!
