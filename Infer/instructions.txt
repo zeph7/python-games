@@ -1,6 +1,5 @@
  Instructions:
-
-	for version 1.1:
+ 
 
 	Install Python 3 
 	most probable from python.org (official site of python)
@@ -8,7 +7,9 @@
 	Additional modules needed: 
 	1. random module
 	2. time module
-	3. sys module
+	3. os module
+	4. msvcrt module
+	5. sys module
 	most likely preinstalled in python 3 - version 3.6.5
 
 	need to download (from GitHub repo) the source code and the 
@@ -18,27 +19,7 @@
 	
 	And place all these files in the same folder
 	
-	Finally run the source code [game_v1.1.py (version 1.1)]
-	with python 3
-
-	Done!!
-
-
-	for version 1.2:
-
-	Install Python 3 
-	most probable from python.org (official site of python)
-
-	Extra additional modules needed: 
-	1. os module
-	also most likely preinstalled in python 3 - version 3.6.5
-
-	need to download all the files(from GitHub repo)
-	extra file in v1.2 : 'leadership.txt' (leadership board)
-	
-	place all these files in the same folder
-	
-	Finally run the source code [game_v1.2.py (version 1.2)]
+	Finally run the source code [ game.py ]
 	with python 3
 
 	Done!!
