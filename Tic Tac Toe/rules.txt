@@ -1,0 +1,22 @@
+ About game:
+
+	nothing much! 
+	Its just the regular tic tac toe game.
+
+	But the difference is you are playing here against a basic AI
+	(Artificial Intelligence) Algorithm.
+
+ Rules:
+	
+	1. Your key is X(cross) and computer's is O(zero).
+	   You will get a chance to play a move first.
+
+	2. Play your move by typing (1-9) for corresponding position on crossboard as in your Numpad.
+	   AI will play a move against you after.
+
+	3. Meanwhile you can press anytime : plus(+) -> new game | minus(-) -> quit
+
+	4. Press y(yes) or n(no), if you want to play again or not when it asks. 
+
+
+ Enjoy the GAME!!!
