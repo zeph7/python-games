@@ -1,6 +1,6 @@
 # Infer
   
-        Its actually a ### "Hollywood Movie guessing game".
+  	      Its actually a "Hollywood Movie guessing game".
 	      Named "Infer" as in infer means - to guess accurately.
 
 	      Movie name with few letters available will be shown on the
