@@ -5,9 +5,14 @@ Collection of self developed mini python games
 ![](https://udemy-images.udemy.com/course/750x422/566404_56ea_3.jpg)
 
 
-### What is it ?
+# License
+
+Licensed under the MIT License
 
 ![](http://www.usingpython.com/wp-content/uploads/header1.jpg)
+
+
+# What is it ?
 
 Well, I have been learning python for a while and I, kind of really enjoyed working with it. Who won't !! Its a really
 cool Language ever existed in the field of programming. Python makes stuffs a lot easier. So it does with the game development!! 
@@ -22,7 +27,7 @@ of python programming and its different modules that are helpful for different p
 ![](https://target.scene7.com/is/image/Target/53596334?wid=488&hei=488&fmt=pjpeg)
 
 
-### Modules used
+# Modules used
 
     1. random module
     2. time module
